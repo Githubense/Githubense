@@ -15,9 +15,9 @@
 
 ## 👨‍🔧 Tech Stack & Toolbox
 
-- **Languages:** Swift, SwiftUI, Python, PHP, SQL  
-- **Frameworks:** ARKit, RealityKit, UIKit, Firebase, OpenAI API  
-- **Tools:** Xcode, Figma, Git, Google Cloud, Jira, Notion  
+- **Languages:** Swift, SwiftUI, Python, PHP, SQL.
+- **Frameworks:** ARKit, RealityKit, UIKit, Firebase, OpenAI API.
+- **Tools:** Xcode, Figma, Git, Google Cloud, Jira.
 - **Methodologies:** Agile Scrum, Design Thinking, Inclusive Design  
 
 ## 📲 Let's Build Together
